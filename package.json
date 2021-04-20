@@ -1,0 +1,23 @@
+{
+  "name": "my-heroes-manager",
+  "version": "1.0.0",
+  "description": "test using Google Sheets API as a CMS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vuongvu1/My-Hero-Manager.git"
+  },
+  "author": "vuongvu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuongvu1/My-Hero-Manager/issues"
+  },
+  "homepage": "https://github.com/vuongvu1/My-Hero-Manager#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.1.15"
+  }
+}
